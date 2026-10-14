@@ -1,0 +1,11 @@
+# Versions used to build and test this package (Python 3.12).
+numpy==2.4.4
+scipy==1.17.1          # >= 1.7 is required (studentized range distribution)
+matplotlib==3.10.8     # >= 3.9 is required (boxplot tick_labels)
+pydicom==3.0.2
+pillow==12.1.1
+opencv-python==4.13.0.92
+pytesseract==0.3.13
+pymupdf==1.28.2
+# Tesseract OCR (system program, not a pip package) is needed only to import DICOM files through the digitizer.
+# statsmodels is optional: NeuroVF uses it for BH-FDR when installed and its own implementation otherwise (same result).

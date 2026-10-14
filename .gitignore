@@ -1,0 +1,15 @@
+# generated or produced locally
+exports/
+exports_imported/
+expected_outputs/
+oracle_report*/
+import_comparison/
+imported_databases/_database_index.json
+__pycache__/
+*.pyc
+.pytest_cache/
+# working database and digitizer alignment files written next to the application
+neurovf_research.json
+neurovf_research.json.bak
+neurovf_research.json.tmp
+app/grid_params_last_*.json

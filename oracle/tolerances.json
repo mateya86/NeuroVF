@@ -1,0 +1,59 @@
+{
+  "_comment": "Pre-specified BEFORE any NeuroVF export is compared. A value passes if |got-expected| <= abs + rel*|expected|. NaN must match NaN exactly. Integers, counts, masks and strings must match exactly.",
+  "registered_value_db": {
+    "abs": 1e-09,
+    "rel": 0.0
+  },
+  "mean_db": {
+    "abs": 1e-09,
+    "rel": 1e-12
+  },
+  "welch_t": {
+    "abs": 1e-09,
+    "rel": 1e-09
+  },
+  "welch_df": {
+    "abs": 1e-09,
+    "rel": 1e-09
+  },
+  "p_value": {
+    "abs": 1e-12,
+    "rel": 1e-08
+  },
+  "q_value": {
+    "abs": 1e-12,
+    "rel": 1e-08
+  },
+  "correlation_coefficient": {
+    "abs": 1e-09,
+    "rel": 1e-09
+  },
+  "regression": {
+    "abs": 1e-09,
+    "rel": 1e-09
+  },
+  "percentage": {
+    "abs": 1e-09,
+    "rel": 0.0
+  },
+  "md_db": {
+    "abs": 1e-09,
+    "rel": 0.0
+  },
+  "hedges_g": {
+    "abs": 1e-09,
+    "rel": 1e-09
+  },
+  "welch_F": {
+    "abs": 1e-09,
+    "rel": 1e-09
+  },
+  "omnibus_effect_size": {
+    "abs": 1e-12,
+    "rel": 1e-09
+  },
+  "games_howell_p": {
+    "abs": 1e-10,
+    "rel": 1e-08
+  }
+}
