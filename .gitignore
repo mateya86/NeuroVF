@@ -4,7 +4,6 @@ exports_imported/
 expected_outputs/
 oracle_report*/
 import_comparison/
-imported_databases/_database_index.json
 __pycache__/
 *.pyc
 .pytest_cache/
