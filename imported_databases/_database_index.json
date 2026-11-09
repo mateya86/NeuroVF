@@ -1,0 +1,201 @@
+{
+  "seed": 20260101,
+  "n_subjects": 20,
+  "blind_spot_index": {
+    "24-2": {
+      "od": 33,
+      "os": 28
+    },
+    "30-2": {
+      "od": 45,
+      "os": 40
+    },
+    "60-4": {
+      "od": 33,
+      "os": 32
+    }
+  },
+  "blind_spot_distance_from_true_bs_deg": {
+    "24-2": {
+      "od": 0.0,
+      "os": 0.0
+    },
+    "30-2": {
+      "od": 0.0,
+      "os": 0.0
+    },
+    "60-4": {
+      "od": 15.297058540778355,
+      "os": 15.297058540778355
+    }
+  },
+  "points_per_pattern": {
+    "24-2": 54,
+    "30-2": 76,
+    "60-4": 60
+  },
+  "files": [
+    {
+      "file": "neurovf_post_chiasmatic_24-2_total_deviation.json",
+      "pattern": "24-2",
+      "data_type": "total_deviation",
+      "study_type": "post_chiasmatic",
+      "n_subjects": 20,
+      "n_points": 54,
+      "seed": 20260102
+    },
+    {
+      "file": "neurovf_post_chiasmatic_24-2_raw_threshold.json",
+      "pattern": "24-2",
+      "data_type": "raw_threshold",
+      "study_type": "post_chiasmatic",
+      "n_subjects": 20,
+      "n_points": 54,
+      "seed": 20260102
+    },
+    {
+      "file": "neurovf_post_chiasmatic_30-2_total_deviation.json",
+      "pattern": "30-2",
+      "data_type": "total_deviation",
+      "study_type": "post_chiasmatic",
+      "n_subjects": 20,
+      "n_points": 76,
+      "seed": 20260103
+    },
+    {
+      "file": "neurovf_post_chiasmatic_30-2_raw_threshold.json",
+      "pattern": "30-2",
+      "data_type": "raw_threshold",
+      "study_type": "post_chiasmatic",
+      "n_subjects": 20,
+      "n_points": 76,
+      "seed": 20260103
+    },
+    {
+      "file": "neurovf_post_chiasmatic_60-4_total_deviation.json",
+      "pattern": "60-4",
+      "data_type": "total_deviation",
+      "study_type": "post_chiasmatic",
+      "n_subjects": 20,
+      "n_points": 60,
+      "seed": 20260104
+    },
+    {
+      "file": "neurovf_post_chiasmatic_60-4_raw_threshold.json",
+      "pattern": "60-4",
+      "data_type": "raw_threshold",
+      "study_type": "post_chiasmatic",
+      "n_subjects": 20,
+      "n_points": 60,
+      "seed": 20260104
+    },
+    {
+      "file": "neurovf_chiasmatic_24-2_total_deviation.json",
+      "pattern": "24-2",
+      "data_type": "total_deviation",
+      "study_type": "chiasmatic",
+      "n_subjects": 20,
+      "n_points": 54,
+      "seed": 20260105
+    },
+    {
+      "file": "neurovf_chiasmatic_24-2_raw_threshold.json",
+      "pattern": "24-2",
+      "data_type": "raw_threshold",
+      "study_type": "chiasmatic",
+      "n_subjects": 20,
+      "n_points": 54,
+      "seed": 20260105
+    },
+    {
+      "file": "neurovf_chiasmatic_30-2_total_deviation.json",
+      "pattern": "30-2",
+      "data_type": "total_deviation",
+      "study_type": "chiasmatic",
+      "n_subjects": 20,
+      "n_points": 76,
+      "seed": 20260106
+    },
+    {
+      "file": "neurovf_chiasmatic_30-2_raw_threshold.json",
+      "pattern": "30-2",
+      "data_type": "raw_threshold",
+      "study_type": "chiasmatic",
+      "n_subjects": 20,
+      "n_points": 76,
+      "seed": 20260106
+    },
+    {
+      "file": "neurovf_chiasmatic_60-4_total_deviation.json",
+      "pattern": "60-4",
+      "data_type": "total_deviation",
+      "study_type": "chiasmatic",
+      "n_subjects": 20,
+      "n_points": 60,
+      "seed": 20260107
+    },
+    {
+      "file": "neurovf_chiasmatic_60-4_raw_threshold.json",
+      "pattern": "60-4",
+      "data_type": "raw_threshold",
+      "study_type": "chiasmatic",
+      "n_subjects": 20,
+      "n_points": 60,
+      "seed": 20260107
+    },
+    {
+      "file": "neurovf_ptc_24-2_total_deviation.json",
+      "pattern": "24-2",
+      "data_type": "total_deviation",
+      "study_type": "ptc",
+      "n_subjects": 20,
+      "n_points": 54,
+      "seed": 20260108
+    },
+    {
+      "file": "neurovf_ptc_24-2_raw_threshold.json",
+      "pattern": "24-2",
+      "data_type": "raw_threshold",
+      "study_type": "ptc",
+      "n_subjects": 20,
+      "n_points": 54,
+      "seed": 20260108
+    },
+    {
+      "file": "neurovf_ptc_30-2_total_deviation.json",
+      "pattern": "30-2",
+      "data_type": "total_deviation",
+      "study_type": "ptc",
+      "n_subjects": 20,
+      "n_points": 76,
+      "seed": 20260109
+    },
+    {
+      "file": "neurovf_ptc_30-2_raw_threshold.json",
+      "pattern": "30-2",
+      "data_type": "raw_threshold",
+      "study_type": "ptc",
+      "n_subjects": 20,
+      "n_points": 76,
+      "seed": 20260109
+    },
+    {
+      "file": "neurovf_ptc_60-4_total_deviation.json",
+      "pattern": "60-4",
+      "data_type": "total_deviation",
+      "study_type": "ptc",
+      "n_subjects": 20,
+      "n_points": 60,
+      "seed": 20260110
+    },
+    {
+      "file": "neurovf_ptc_60-4_raw_threshold.json",
+      "pattern": "60-4",
+      "data_type": "raw_threshold",
+      "study_type": "ptc",
+      "n_subjects": 20,
+      "n_points": 60,
+      "seed": 20260110
+    }
+  ]
+}
